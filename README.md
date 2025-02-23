@@ -46,9 +46,3 @@ Open `notebook.ipynb` and execute all cells to train models and evaluate perform
 ## 🔍 Future Improvements  
 - Implement **Transformer models (BERT, RoBERTa)** for better contextual understanding.  
 - Use **SHAP/LIME** to improve explainability of predictions.  
-
-## 👨‍💻 Authors  
-- **Muhammad Ahmed Zaheer**  
-- Muhammad Ahsan Pervaiz Khan  
-- Ali Hamza  
-- Muhammad Faisal Ejaz  
